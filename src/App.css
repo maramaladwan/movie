@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(199, 139, 139, 0.212);
+    color: white;
+}
+
+body {
+    background: url('film-roll.jpg');
+    background-attachment: fixed; /* Make background image fixed */
+    background-repeat: no-repeat; /* Don't repeat the image */
+    background-size: cover; /* Cover the entire screen */
+    background-position: center; /* Pull image to the center */
+    background-image: url(https://media.istockphoto.com/id/1029147440/photo/video-archives-concept.jpg?s=612x612&w=0&k=20&c=jiv5w0twGAywJXRodNHxQ561JuV2rXF6tWKYiNrdBIY=);
+        background-size: cover;
+}
+
+.app2 {
+    
+    
+    max-width: 90%;
+    height: 100vh;
+    margin: auto;
+    padding: 1rem; /* Fixed the issue with padding */
+}
+.form{
+
+    background-color: white;
+    padding: 0px;
+}
+.na{
+    background-color: rgb(29, 45, 185);
+    
+}
+
+
+
+
